@@ -1,0 +1,9 @@
+ID,AgeRange,Occupation,Gender,Happy
+1,Young,Tutor,F,Yes
+2,Middle-aged,Professor,F,No
+3,Old,Tutor,M,Yes
+4,Middle-aged,Professor,M,Yes
+5,Old,Tutor,F,Yes
+6,Young,Lecturer,M,No
+7,Middle-aged,Lecturer,F,No
+8,Old,Tutor,F,No
